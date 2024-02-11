@@ -1,2 +1,2 @@
-# skins
-Skins
+# [xdass skin](https://cdn.discordapp.com/attachments/1205946257420451840/1205947053461475409/xdass.osk?ex=65da38b6&is=65c7c3b6&hm=ae064e52f1fa110f691f7344a0cb1046ce0654c23d07696970b5591f22bfe3b0&)
+![screenshot384](https://cdn.discordapp.com/attachments/1205946257420451840/1206227157903216650/image.png?ex=65db3d95&is=65c8c895&hm=81854b8f5cafe9c8af672bc49b300a26225ef5adb409f652ee7cb52936377069&)
